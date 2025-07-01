@@ -39,7 +39,7 @@ Follow these steps to deploy and run your own trading bot:
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/tborzecki)
+- 💼 [LinkedIn](linkedin.com/in/tborzecki)
 - 📱 [Telegram] (https://t.me/thomas_de_fi)
 
 ---
